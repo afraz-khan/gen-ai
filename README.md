@@ -1,1 +1,1 @@
-LLM Dev
+Helping notebooks explaining gen-ai tech.
